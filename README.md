@@ -11,19 +11,6 @@ The project contains the following files and directories:
 3. **images**: Stores images used in the application, such as logos and banners.
 4. **js**: Contains JavaScript files for adding interactivity and dynamic behavior.
 
-### Files
-1. **about.html**: Provides information about the application or organization.
-2. **about_review.php**: Processes or displays reviews related to the application.
-3. **book.html**: Allows users to book or reserve a service.
-4. **book_form.php**: Handles booking form submissions and processing.
-5. **connection.php**: Manages the connection to the database.
-6. **home.html**: The homepage of the application, providing an overview and links to other sections.
-7. **login.html**: Login page for users to access their accounts.
-8. **login_action.php**: Processes user login requests.
-9. **package.html**: Displays information about different packages or offerings.
-10. **signup.html**: A form for new users to create an account.
-11. **signup_action.php**: Handles the user signup process.
-12. **submit_contact.php**: Processes contact form submissions.
 
 ## Features
 1. **User Authentication**:
